@@ -13,7 +13,7 @@
     "animate.css": "^3.7.0",
     "axios": "^0.18.0",
     "element-ui": "^2.8.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mint-ui": "^2.2.13",
     "vue": "^2.5.2",
     "vue-cordova": "^0.1.2",
